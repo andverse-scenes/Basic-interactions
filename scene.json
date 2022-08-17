@@ -16,7 +16,7 @@
   },
   "communications": {
     "type": "webrtc",
-    "signalling": "https://signalling-01.decentraland.org"
+    "signalling": "https://signalling-01.andverse.org"
   },
   "policy": {
     "contentRating": "E",
